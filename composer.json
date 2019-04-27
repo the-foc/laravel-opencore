@@ -1,0 +1,21 @@
+{
+  "name": "the-foc/laravel-opencore",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Nima Ebrazi",
+      "email": "nimaebrazi@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "^7.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "FOC\\LaravelOpenCore\\": "src/"
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
